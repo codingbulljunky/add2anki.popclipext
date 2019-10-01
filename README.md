@@ -1,4 +1,4 @@
-# add2anki.popclipext
+# add2anki
  
 
 ##Introduction
