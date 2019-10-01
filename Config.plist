@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>add2anki_icon.png</string>
+			<key>Shell Script File</key>
+			<string>add2anki.sh</string>
+			<key>Stoppable</key>
+			<true/>
+			<key>Title</key>
+			<string>Add2Anki</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Activate Anki and paste highlighted text into a new cloze type card.</string>
+	<key>Extension Identifier</key>
+	<string>com.cbj.popclip.extension.add2anki</string>
+	<key>Extension Name</key>
+	<dict>
+		<key>en</key>
+		<string>Add2Anki</string>
+		<key>fr</key>
+		<string>Add2Anki</string>
+	</dict>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>
